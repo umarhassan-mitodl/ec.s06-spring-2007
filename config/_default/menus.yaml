@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 48df85fc-5f53-de4d-0113-df9a04045eba
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 79bafbf9-2c3f-7e5c-e6a4-880d051ebcff
+  name: Readings
+  pageRef: /pages/readings
+  weight: 20
+- identifier: 982a0b97-ecf7-969c-8006-d3ad694edfc1
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 30
+- identifier: 7b734711-b219-a796-3345-ccd1582fdb0f
+  name: Projects
+  pageRef: /pages/projects/
+  weight: 40
+- identifier: 99ecbfa6-ce5e-d537-8b6d-181d91efeba3
+  name: Class Trip
+  pageRef: /pages/class-trip/
+  weight: 50
