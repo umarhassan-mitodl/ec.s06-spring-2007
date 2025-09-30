@@ -4,6 +4,8 @@ description: 'Mine. '
 file: /courses/ec-s06-design-for-demining-spring-2007/b71152945fb8cc57e369bb30e4077227_mine09.jpg
 file_size: 134253
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

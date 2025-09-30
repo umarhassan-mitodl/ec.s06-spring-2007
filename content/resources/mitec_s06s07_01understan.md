@@ -5,6 +5,8 @@ description: This is a resource file that contains information regarding underst
 file: /courses/ec-s06-design-for-demining-spring-2007/5a0b4f3ae5cc682880d4cab176e29381_MITEC_S06S07_01understan.pdf
 file_size: 1484129
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

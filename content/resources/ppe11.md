@@ -4,6 +4,8 @@ description: Close up of a novel foot protection system.
 file: /courses/ec-s06-design-for-demining-spring-2007/aaa149caa3839639871407e26f54c8bd_ppe11.jpg
 file_size: 12717
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

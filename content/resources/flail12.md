@@ -4,6 +4,8 @@ description: 'Front view of the mini flail hammers. '
 file: /courses/ec-s06-design-for-demining-spring-2007/150b1c270dd586353d2c7c4b0db39c56_flail12.jpg
 file_size: 98217
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Front view of the mini flail hammers.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

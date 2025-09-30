@@ -4,6 +4,8 @@ description: 'German glass mine. '
 file: /courses/ec-s06-design-for-demining-spring-2007/83d688aaa59859c434a60ce91f3a5c79_disp49.jpg
 file_size: 68122
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: German glass mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

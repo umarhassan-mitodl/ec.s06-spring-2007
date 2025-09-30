@@ -4,6 +4,8 @@ description: 'Demining dog. '
 file: /courses/ec-s06-design-for-demining-spring-2007/b56cfce07779936ca89f1abfde9a1ce2_dog04.jpg
 file_size: 100170
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Demining dog.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

@@ -4,6 +4,8 @@ description: 'Digging a hole with MIT pick prod. '
 file: /courses/ec-s06-design-for-demining-spring-2007/04a7057ac0aef0f606940e3d1290f58d_mittool03.jpg
 file_size: 80303
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Digging a hole with MIT pick prod.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

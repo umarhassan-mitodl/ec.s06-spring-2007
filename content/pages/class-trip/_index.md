@@ -6,6 +6,8 @@ description: 'This section features pictures and videos of the class trips to th
   courtesy of the following course staff and students: Benjamin Linder, Andrew Heafitz,
   Andrew Brooks, Rosalind Takata, Helen Tsai, and Aron Zingman, and are used with
   permission.'
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Class Trip
@@ -42,12 +44,12 @@ Videos
 
 ### Flail Used for Vegetation Clearance
 
-Video ({{% resource_link "facac602-0175-426e-829f-1c99c535a38b" "MPG - 6.9 MB" %}})
+Video ([MPG - 6.9 MB](http://www.archive.org/download/MITSP.776S07/flail5.MPG))
 
 ### Manual Demining Demonstration
 
-Video ({{% resource_link "d6153ce7-3904-4932-bd51-2ef02ac32197" "MPG - 5.0 MB" %}})
+Video ([MPG - 5.0 MB](http://www.archive.org/download/MITSP.776S07/manual.MPG))
 
 ### MIT Tools Trial
 
-Video ({{% resource_link "50f78955-6ac8-45ea-9744-f762073ed31b" "MP4 - 3.5 MB" %}})
+Video ([MP4 - 3.5 MB](http://www.archive.org/download/MITSP.776S07/tool1_512kb.mp4))

@@ -4,6 +4,8 @@ description: 'Lane markings. '
 file: /courses/ec-s06-design-for-demining-spring-2007/36cd347ad27aa2d33b7622f9eaa93911_lane11.jpg
 file_size: 106227
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Lane markings.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

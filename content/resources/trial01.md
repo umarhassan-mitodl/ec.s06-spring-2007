@@ -4,6 +4,8 @@ description: Ben.
 file: /courses/ec-s06-design-for-demining-spring-2007/7a97b1796a7f536e39307bbd1557c5be_trial01.jpg
 file_size: 12859
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

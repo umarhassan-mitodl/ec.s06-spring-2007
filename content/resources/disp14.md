@@ -4,6 +4,8 @@ description: 'Anti-personnel (AP) mines. '
 file: /courses/ec-s06-design-for-demining-spring-2007/395303700d0a66ece7ef5a6376429e99_disp14.jpg
 file_size: 46134
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Anti-personnel (AP) mines.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

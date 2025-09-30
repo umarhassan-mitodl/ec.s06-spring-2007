@@ -4,6 +4,8 @@ description: "PlayStation\xAE controller. "
 file: /courses/ec-s06-design-for-demining-spring-2007/1b4405bd878b536741fae4f26282f036_flail10.jpg
 file_size: 78709
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: "PlayStation\xAE controller."
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

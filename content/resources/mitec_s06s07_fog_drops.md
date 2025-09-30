@@ -4,6 +4,8 @@ description: This is a resource file that contains information regarding fog dro
 file: /courses/ec-s06-design-for-demining-spring-2007/238f5eebfadfd000d8d0171e5d0d56fb_MITEC_S06S07_fog_drops.pdf
 file_size: 55382
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: 'Hidden Valmara mine. '
 file: /courses/ec-s06-design-for-demining-spring-2007/091b8ca111eb4fe866f81ee28015310a_mine02.jpg
 file_size: 125285
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Hidden Valmara mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

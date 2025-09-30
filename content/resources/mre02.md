@@ -4,6 +4,8 @@ description: 'MRE materials. '
 file: /courses/ec-s06-design-for-demining-spring-2007/6b2c8283b0dba4546f9eb4618f05807f_mre02.jpg
 file_size: 42754
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: MRE materials.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

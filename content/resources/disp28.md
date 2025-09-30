@@ -4,6 +4,8 @@ description: 'DPICM shaped charge. '
 file: /courses/ec-s06-design-for-demining-spring-2007/c076e69777299bad3a244b31f541a08a_disp28.jpg
 file_size: 44383
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: DPICM shaped charge.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

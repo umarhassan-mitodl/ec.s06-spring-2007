@@ -4,6 +4,8 @@ description: MIT class trying out manual demining techniques.
 file: /courses/ec-s06-design-for-demining-spring-2007/b94ef2125f770944587245348b507999_trial05.jpg
 file_size: 12870
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -4,6 +4,8 @@ description: Metal rake demonstration.
 file: /courses/ec-s06-design-for-demining-spring-2007/3140399f479edc217967ab3540109c5a_ppe19.jpg
 file_size: 12352
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

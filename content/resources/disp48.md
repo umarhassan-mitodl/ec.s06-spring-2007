@@ -4,6 +4,8 @@ description: 'Display mines. '
 file: /courses/ec-s06-design-for-demining-spring-2007/45d36ccdc4d732b914ca30a7b5a14198_disp48.jpg
 file_size: 51383
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Display mines.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

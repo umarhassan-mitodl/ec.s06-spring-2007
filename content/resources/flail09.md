@@ -4,6 +4,8 @@ description: 'Mini flail controllers. '
 file: /courses/ec-s06-design-for-demining-spring-2007/b7da3b7ea098467efcd27d25b82417ea_flail09.jpg
 file_size: 66033
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Mini flail controllers.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

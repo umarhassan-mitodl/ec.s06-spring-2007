@@ -4,6 +4,8 @@ description: MIT pick prod trial.
 file: /courses/ec-s06-design-for-demining-spring-2007/da729ab6794008ac9d026c2ec11c1354_mittool02.jpg
 file_size: 12922
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

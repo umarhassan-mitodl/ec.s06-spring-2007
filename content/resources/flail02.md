@@ -4,6 +4,8 @@ description: 'Rear view of the mini flail. '
 file: /courses/ec-s06-design-for-demining-spring-2007/8f755510da160c35051db7079a122303_flail02.jpg
 file_size: 86135
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Rear view of the mini flail.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

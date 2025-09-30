@@ -4,6 +4,8 @@ description: 'Mine Risk Education (MRE) materials. '
 file: /courses/ec-s06-design-for-demining-spring-2007/1bd3e8f0dcb57da2fe262fac77403606_mre01.jpg
 file_size: 40860
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Mine Risk Education (MRE) materials.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

@@ -4,6 +4,8 @@ description: 'US M46 mine. '
 file: /courses/ec-s06-design-for-demining-spring-2007/44705c3017f2a9c351e091d0ca8f3236_disp53.jpg
 file_size: 41875
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: US M46 mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

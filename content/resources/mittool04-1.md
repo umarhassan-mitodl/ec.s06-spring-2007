@@ -4,6 +4,8 @@ description: 'Digging a hole in rocky ground. '
 file: /courses/ec-s06-design-for-demining-spring-2007/f3756bee98ac0fabd763878eddaa3224_mittool04.jpg
 file_size: 72793
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Digging a hole in rocky ground.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

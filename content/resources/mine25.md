@@ -4,6 +4,8 @@ description: 'Weathered mine with markers. '
 file: /courses/ec-s06-design-for-demining-spring-2007/1a9676c7b9b3c6d2d9b4bed3fcec9917_mine25.jpg
 file_size: 118560
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Weathered mine with markers.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

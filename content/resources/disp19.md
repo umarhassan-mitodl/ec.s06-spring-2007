@@ -4,6 +4,8 @@ description: 'AP shoe mines. '
 file: /courses/ec-s06-design-for-demining-spring-2007/d17e41abf5288f8b553b063400e83b20_disp19.jpg
 file_size: 74615
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: AP shoe mines.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

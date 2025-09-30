@@ -4,6 +4,8 @@ description: MIT class learning manual demining techniques.
 file: /courses/ec-s06-design-for-demining-spring-2007/4ae9c1cf2d509ba05cafd59b3ebcd7c0_trial04.jpg
 file_size: 13261
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

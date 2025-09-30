@@ -4,6 +4,8 @@ description: 'Submunitions. '
 file: /courses/ec-s06-design-for-demining-spring-2007/1eb006adf390e516586a457731844426_disp58.jpg
 file_size: 72637
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Submunitions.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

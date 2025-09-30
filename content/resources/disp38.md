@@ -4,6 +4,8 @@ description: 'Underground view of a PMA-2 buried mine. '
 file: /courses/ec-s06-design-for-demining-spring-2007/4a066abf958ca8882a50680a7d7d9eb4_disp38.jpg
 file_size: 69076
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Underground view of a PMA-2 buried mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

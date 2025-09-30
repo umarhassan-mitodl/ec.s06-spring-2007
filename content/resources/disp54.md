@@ -4,6 +4,8 @@ description: 'M139 Volcano mine. '
 file: /courses/ec-s06-design-for-demining-spring-2007/ba982dc2fb531f506c3bb3bf1e8fe5ca_disp54.jpg
 file_size: 56757
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: M139 Volcano mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

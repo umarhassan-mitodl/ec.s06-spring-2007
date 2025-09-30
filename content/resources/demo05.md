@@ -4,6 +4,8 @@ description: 'Probing. '
 file: /courses/ec-s06-design-for-demining-spring-2007/ec64407c2cb38ff085e36f9b78579117_demo05.jpg
 file_size: 108519
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Probing.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

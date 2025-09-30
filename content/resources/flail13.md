@@ -4,6 +4,8 @@ description: 'Close up of the mini flail hammers. '
 file: /courses/ec-s06-design-for-demining-spring-2007/028ee3c0c4a449ca0dcb4a2a78ff82cc_flail13.jpg
 file_size: 100746
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Close up of the mini flail hammers.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

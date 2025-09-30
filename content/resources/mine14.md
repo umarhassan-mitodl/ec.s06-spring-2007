@@ -4,6 +4,8 @@ description: 'Emplaced anti-tank (AT) mine. '
 file: /courses/ec-s06-design-for-demining-spring-2007/987bf3b255807046d4ba58dd8521ba8c_mine14.jpg
 file_size: 109921
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Emplaced anti-tank (AT) mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

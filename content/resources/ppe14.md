@@ -4,6 +4,8 @@ description: Metal detectors.
 file: /courses/ec-s06-design-for-demining-spring-2007/2c2521973d73b4e955172c40f007ddd6_ppe14.jpg
 file_size: 13071
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

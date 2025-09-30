@@ -4,6 +4,8 @@ description: 'Emplaced stake mine. '
 file: /courses/ec-s06-design-for-demining-spring-2007/068bfb976925f54c7459a0158da6a1fe_mine24.jpg
 file_size: 101006
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Emplaced stake mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

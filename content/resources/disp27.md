@@ -4,6 +4,8 @@ description: Dual-Purpose Improved Conventional Munition (DPICM).
 file: /courses/ec-s06-design-for-demining-spring-2007/5d4bd706b7a66b53b194bb1d2b4eedf1_disp27.jpg
 file_size: 42475
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Dual-Purpose Improved Conventional Munition (DPICM).
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

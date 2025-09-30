@@ -4,6 +4,8 @@ description: Custom tool kit
 file: /courses/ec-s06-design-for-demining-spring-2007/e9499bf967772ea099467a3d70e2d2a8_ppe25.jpg
 file_size: 13063
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

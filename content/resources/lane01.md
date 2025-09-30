@@ -4,6 +4,8 @@ description: 'Afghanistan marking system. '
 file: /courses/ec-s06-design-for-demining-spring-2007/fd27191d47f7029a3f987526e83d9d2a_lane01.jpg
 file_size: 107632
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Afghanistan marking system.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

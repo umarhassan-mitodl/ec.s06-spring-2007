@@ -4,6 +4,8 @@ description: 'Mozambique marking system. '
 file: /courses/ec-s06-design-for-demining-spring-2007/fd2eda907e2819aa6224ef12c0cc8675_lane06.jpg
 file_size: 110746
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Mozambique marking system.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

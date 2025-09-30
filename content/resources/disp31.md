@@ -4,6 +4,8 @@ description: 'Exposed and buried AT mines. '
 file: /courses/ec-s06-design-for-demining-spring-2007/3c2a6ba1d6bc93ccfc6f447ca5e2a723_disp31.jpg
 file_size: 79151
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Exposed and buried AT mines.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

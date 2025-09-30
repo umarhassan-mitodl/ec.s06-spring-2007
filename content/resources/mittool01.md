@@ -4,6 +4,8 @@ description: MIT class testing MIT tools.
 file: /courses/ec-s06-design-for-demining-spring-2007/7a7d68b661365c1932efa5761dbfd7b5_mittool01.jpg
 file_size: 13229
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

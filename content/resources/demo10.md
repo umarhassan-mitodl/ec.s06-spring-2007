@@ -4,6 +4,8 @@ description: 'Buried mine. '
 file: /courses/ec-s06-design-for-demining-spring-2007/93df61435697d10a91e100a4d3ba06ad_demo10.jpg
 file_size: 117809
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Buried mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

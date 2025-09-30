@@ -4,6 +4,8 @@ description: 'Close up of an emplaced AT mine. '
 file: /courses/ec-s06-design-for-demining-spring-2007/042dbe9cf404e041d4b11fbe829b5e6a_mine15.jpg
 file_size: 101310
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Close up of an emplaced AT mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

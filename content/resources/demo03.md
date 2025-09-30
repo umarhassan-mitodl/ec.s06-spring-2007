@@ -4,6 +4,8 @@ description: 'Trip wire feeler. '
 file: /courses/ec-s06-design-for-demining-spring-2007/68d50086460804f6212bd04544313500_demo03.jpg
 file_size: 93434
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: Trip wire feeler.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
