@@ -4,8 +4,6 @@ description: 'Emplaced Remnant BLU-97 mine. '
 file: /courses/ec-s06-design-for-demining-spring-2007/86fe2ac51121deb55fb74011edd1b036_mine12.jpg
 file_size: 120574
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Emplaced Remnant BLU-97 mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

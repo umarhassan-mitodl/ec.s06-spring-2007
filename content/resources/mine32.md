@@ -4,8 +4,6 @@ description: 'UXO. '
 file: /courses/ec-s06-design-for-demining-spring-2007/206b4c1dd4b3b46a4fbf343d48f1608c_mine32.jpg
 file_size: 118562
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: UXO.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

@@ -4,8 +4,6 @@ description: Personal Protective Equipment (PPE).
 file: /courses/ec-s06-design-for-demining-spring-2007/35fd6a7d82962e63749cc8f139b87bd2_ppe02.jpg
 file_size: 12919
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

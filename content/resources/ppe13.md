@@ -4,8 +4,6 @@ description: Armoured fist.
 file: /courses/ec-s06-design-for-demining-spring-2007/47b1ff92204a628f67744c821be6d213_ppe13.jpg
 file_size: 12856
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -4,8 +4,6 @@ description: 'Manual demining demonstration. '
 file: /courses/ec-s06-design-for-demining-spring-2007/58db96c1eabbb984b78d83f1deb8f15a_demo02.jpg
 file_size: 99447
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Manual demining demonstration.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

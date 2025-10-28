@@ -4,8 +4,6 @@ description: 'Demining dog handlers. '
 file: /courses/ec-s06-design-for-demining-spring-2007/dc7cbb74f82e3d40230a77f7f9826172_dog02.jpg
 file_size: 93852
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Demining dog handlers.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

@@ -4,8 +4,6 @@ description: 'PROM and Valmara mines. '
 file: /courses/ec-s06-design-for-demining-spring-2007/07b948288b1e251e3fd00a4020563e8f_disp47.jpg
 file_size: 52377
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: PROM and Valmara mines.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

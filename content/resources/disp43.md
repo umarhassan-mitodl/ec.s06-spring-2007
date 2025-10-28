@@ -4,8 +4,6 @@ description: 'Booby traps. '
 file: /courses/ec-s06-design-for-demining-spring-2007/bea0a9ff760d410cdea2447e5cdeb523_disp43.jpg
 file_size: 57671
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Booby traps.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

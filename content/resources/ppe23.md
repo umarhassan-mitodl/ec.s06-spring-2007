@@ -4,8 +4,6 @@ description: Deminers tool set illustration.
 file: /courses/ec-s06-design-for-demining-spring-2007/91866802de62c3abbe817f29d0549780_ppe23.jpg
 file_size: 12750
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

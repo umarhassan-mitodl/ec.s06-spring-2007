@@ -5,8 +5,6 @@ description: 'Two examples of demining tools in use. Photo by Andrew Heafitz. Ri
 file: /courses/ec-s06-design-for-demining-spring-2007/9a8d472f2858b081c077db51dd05914a_ec-s06s07-th.jpg
 file_size: 7731
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: "MIT student testing a trenching tool during the development process (left),\
     \ Deminer in Sri Lanka field testing a pre-production version (right).\_(Left:\

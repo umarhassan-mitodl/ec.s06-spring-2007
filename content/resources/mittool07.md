@@ -4,8 +4,6 @@ description: Rocky ground.
 file: /courses/ec-s06-design-for-demining-spring-2007/a7994ad8104b2db6ca84c74da7d8bdd4_mittool07.jpg
 file_size: 13361
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

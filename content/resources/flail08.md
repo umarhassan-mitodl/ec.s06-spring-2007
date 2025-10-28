@@ -4,8 +4,6 @@ description: "Operator with PlayStation\xAE Controller. "
 file: /courses/ec-s06-design-for-demining-spring-2007/1fccedd26641626a1fe063837eb5b275_flail08.jpg
 file_size: 104871
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: "Operator with PlayStation\xAE Controller."
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

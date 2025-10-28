@@ -4,8 +4,6 @@ description: 'MIT class with demining dogs. '
 file: /courses/ec-s06-design-for-demining-spring-2007/b3e03265d4a741d2f33f78df0d6173de_dog01.jpg
 file_size: 97175
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: MIT class with demining dogs.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

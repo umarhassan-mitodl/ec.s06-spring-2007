@@ -4,8 +4,6 @@ description: 'Underground view of a PROM buried mine. '
 file: /courses/ec-s06-design-for-demining-spring-2007/8308bd9185786f1af09538c78f75b2ea_disp36.jpg
 file_size: 54169
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Underground view of a PROM buried mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

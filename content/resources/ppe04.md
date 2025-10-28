@@ -4,8 +4,6 @@ description: Basic PPE.
 file: /courses/ec-s06-design-for-demining-spring-2007/22696f1fcbb633a1c1d1677f25e9a606_ppe04.jpg
 file_size: 10313
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

@@ -4,8 +4,6 @@ description: Andrew.
 file: /courses/ec-s06-design-for-demining-spring-2007/6796f76019e8c3e615a07d8d941c9bff_trial02.jpg
 file_size: 12918
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

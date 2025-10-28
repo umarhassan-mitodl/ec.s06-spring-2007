@@ -4,8 +4,6 @@ description: 'Marker. '
 file: /courses/ec-s06-design-for-demining-spring-2007/016e2224d5b7e02216313179a30b2301_lane07.jpg
 file_size: 77292
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Marker.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

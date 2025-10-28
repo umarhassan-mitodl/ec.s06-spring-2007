@@ -4,8 +4,6 @@ description: Students in the course and a pair of MIT tools. (Image by MIT OCW.)
 file: /courses/ec-s06-design-for-demining-spring-2007/da7dc2e2051da2ce2de2a61baceea049_chp_demining.jpg
 file_size: 58919
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

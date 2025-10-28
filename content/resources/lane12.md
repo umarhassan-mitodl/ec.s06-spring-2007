@@ -4,8 +4,6 @@ description: 'Markings. '
 file: /courses/ec-s06-design-for-demining-spring-2007/46a8b53f55b30cd46a89e228812c07d5_lane12.jpg
 file_size: 36321
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Markings.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

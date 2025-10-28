@@ -4,8 +4,6 @@ description: Student excavating.
 file: /courses/ec-s06-design-for-demining-spring-2007/8d388b85fb9bc634852388cc7287e13b_trial09.jpg
 file_size: 12538
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

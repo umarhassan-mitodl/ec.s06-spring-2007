@@ -4,8 +4,6 @@ description: 'Mini flail. '
 file: /courses/ec-s06-design-for-demining-spring-2007/226c0be3bfa5932328edf1e170a0ef93_flail07.jpg
 file_size: 108937
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Mini flail.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

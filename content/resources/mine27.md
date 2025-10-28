@@ -4,8 +4,6 @@ description: 'Weathered mine. '
 file: /courses/ec-s06-design-for-demining-spring-2007/9e2524716cfd4111516f8ba352ddcdbc_mine27.jpg
 file_size: 112733
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Weathered mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

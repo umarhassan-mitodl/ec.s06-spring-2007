@@ -4,8 +4,6 @@ description: 'Handling a weathered mine. '
 file: /courses/ec-s06-design-for-demining-spring-2007/99f43dd5d723a11a099c6a2f9799fa3c_demo08.jpg
 file_size: 84896
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Handling a weathered mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

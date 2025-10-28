@@ -4,8 +4,6 @@ description: 'Side view of mini flail in action. '
 file: /courses/ec-s06-design-for-demining-spring-2007/4e02339d979ff839351023d344ab9dbd_flail04.jpg
 file_size: 50246
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Side view of mini flail in action.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

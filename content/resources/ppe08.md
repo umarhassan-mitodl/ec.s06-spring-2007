@@ -4,8 +4,6 @@ description: Visor.
 file: /courses/ec-s06-design-for-demining-spring-2007/2da6e15896326fe51e48523652ac388c_ppe08.jpg
 file_size: 12236
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

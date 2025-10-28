@@ -4,8 +4,6 @@ description: 'Claymore mine. '
 file: /courses/ec-s06-design-for-demining-spring-2007/418132804e22d04c0a50a58548f2f7f8_disp01.jpg
 file_size: 45029
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Claymore mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

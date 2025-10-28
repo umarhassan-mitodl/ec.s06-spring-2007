@@ -5,8 +5,6 @@ description: This is a resource file that contains information regarding technic
 file: /courses/ec-s06-design-for-demining-spring-2007/f708ef6a94c72ee4c3e36e7eef482491_MITEC_S06S07_06draft.pdf
 file_size: 667793
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

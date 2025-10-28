@@ -4,8 +4,6 @@ description: 'Cambodia marking system. '
 file: /courses/ec-s06-design-for-demining-spring-2007/d49e7e09f68c507c66186aa128181983_lane03.jpg
 file_size: 100537
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Cambodia marking system.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

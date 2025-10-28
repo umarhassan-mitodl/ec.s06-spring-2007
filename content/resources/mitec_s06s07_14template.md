@@ -4,8 +4,6 @@ description: This is a resource file that contains information regarding report 
 file: /courses/ec-s06-design-for-demining-spring-2007/69f38ba355b86265b24a20774279f412_MITEC_S06S07_14template.pdf
 file_size: 83837
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

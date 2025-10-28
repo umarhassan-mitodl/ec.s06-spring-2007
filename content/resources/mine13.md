@@ -4,8 +4,6 @@ description: 'Emplaced shoe mine and markers. '
 file: /courses/ec-s06-design-for-demining-spring-2007/679712d8e9360cb91e8d396fe6f2904a_mine13.jpg
 file_size: 130164
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Emplaced shoe mine and markers.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

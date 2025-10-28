@@ -4,8 +4,6 @@ description: 'Anti-tank (AT) mine cutaway. '
 file: /courses/ec-s06-design-for-demining-spring-2007/b67f32839839a9b54a84faeb167e9d5d_disp05.jpg
 file_size: 57476
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Anti-tank (AT) mine cutaway.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

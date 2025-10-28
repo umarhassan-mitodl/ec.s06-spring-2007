@@ -4,8 +4,6 @@ description: 'Cement Mine. '
 file: /courses/ec-s06-design-for-demining-spring-2007/58b128a66ee1434c6573be603d24cef4_disp26.jpg
 file_size: 33010
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Cement Mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

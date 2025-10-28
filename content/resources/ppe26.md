@@ -4,8 +4,6 @@ description: Basic demining tool kit.
 file: /courses/ec-s06-design-for-demining-spring-2007/cb20e65885b323fbc38c7efb9be022aa_ppe26.jpg
 file_size: 12893
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

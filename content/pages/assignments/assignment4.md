@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: ''
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -18,7 +16,7 @@ Due: Ses #5
 
 Note: Assignments 4 and 5 are assigned and due at the same time.
 
-Read at least 10 incident records selected at random in the [Database of Demining Incidents and Victims](http://www.ddasonline.com/). Do not read sequentially.
+Read at least 10 incident records selected at random in the {{% resource_link "c4affa68-8dc7-40fb-a31b-a2412ffe97da" "Database of Demining Incidents and Victims" %}}. Do not read sequentially.
 
 Focus on exploring these by "Activity" and by "Cause." It is less helpful to explore them by "Country." Also, read the Incident Record "Notes."
 

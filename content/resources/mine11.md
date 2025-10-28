@@ -4,8 +4,6 @@ description: 'Emplaced mine. '
 file: /courses/ec-s06-design-for-demining-spring-2007/441163c7db48441fd90d0b903ae05056_mine11.jpg
 file_size: 119058
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Emplaced mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

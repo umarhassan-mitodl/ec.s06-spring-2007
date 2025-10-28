@@ -4,8 +4,6 @@ description: 'Close up of mini flail tracks. '
 file: /courses/ec-s06-design-for-demining-spring-2007/f63158148e6c5e8a9b134e7442ecb17c_flail16.jpg
 file_size: 119797
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Close up of mini flail tracks.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

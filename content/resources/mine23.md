@@ -4,8 +4,6 @@ description: 'Mine in tree. '
 file: /courses/ec-s06-design-for-demining-spring-2007/10b98528bc823e2e93368250ad76815e_mine23.jpg
 file_size: 118923
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Mine in tree.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

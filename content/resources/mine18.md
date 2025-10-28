@@ -4,8 +4,6 @@ description: 'Demolition wired mortar. '
 file: /courses/ec-s06-design-for-demining-spring-2007/e16cb057b7631bb0d523a3609d8126cc_mine18.jpg
 file_size: 117378
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Demolition wired mortar.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

@@ -4,8 +4,6 @@ description: 'Hidden mines. '
 file: /courses/ec-s06-design-for-demining-spring-2007/3f710ef10fbcdac5f40d05839086fe15_mine01.jpg
 file_size: 111343
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Hidden mines.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

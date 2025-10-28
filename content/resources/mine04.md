@@ -4,8 +4,6 @@ description: 'Close up of a Valmara mine. '
 file: /courses/ec-s06-design-for-demining-spring-2007/2528c5462cfeae8d6ef101baf76d80c6_mine04.jpg
 file_size: 97975
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: Close up of a Valmara mine.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'

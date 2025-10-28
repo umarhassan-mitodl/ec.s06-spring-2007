@@ -4,8 +4,6 @@ description: 'AT mines. '
 file: /courses/ec-s06-design-for-demining-spring-2007/102c1371e8061f65f2a65f031d82efca_disp21.jpg
 file_size: 79519
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: AT mines.
   credit: 'Credit: Image courtesy of MIT OpenCourseWare, course staff, and students.'
